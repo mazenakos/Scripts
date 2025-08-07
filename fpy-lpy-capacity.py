@@ -1,3 +1,5 @@
+#Script to calculate FPY and LPY of R2 Testers at CMX, then calculates available capacity
+
 import datetime
 import clickhouse_connect
 import pandas as pd
